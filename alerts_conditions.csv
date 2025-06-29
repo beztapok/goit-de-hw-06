@@ -1,0 +1,5 @@
+id,humidity_min,humidity_max,temperature_min,temperature_max,code,message
+1,60,80,20,25,1001,"Optimal conditions"
+2,-999,-999,25,30,2001,"High temperature alert"
+3,80,90,-999,-999,3001,"High humidity alert"
+4,0,40,0,15,4001,"Low humidity and temperature alert"
